@@ -1,0 +1,19 @@
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\bin\Debug\Toko Iyan 1.exe.config
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\bin\Debug\Toko Iyan 1.exe
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\bin\Debug\Toko Iyan 1.pdb
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\bin\Debug\Toko Iyan 1.xml
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko Iyan 1.vbproj.AssemblyReference.cache
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_Iyan_1.Resources.resources
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_Iyan_1.penjualan.resources
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko Iyan 1.vbproj.GenerateResource.cache
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko Iyan 1.vbproj.CoreCompileInputs.cache
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko Iyan 1.exe
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko Iyan 1.xml
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko Iyan 1.pdb
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_iyan_1.BARANG.resources
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_iyan_1.customer.resources
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_iyan_1.Login.resources
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_iyan_1.MenuUtama.resources
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_iyan_1.user.resources
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_iyan_1.LaporanMaster.resources
+C:\Users\Septian\Source\Repos\Toko Iyan 1\Toko Iyan 1\obj\Debug\Toko_iyan_1.supplier.resources
